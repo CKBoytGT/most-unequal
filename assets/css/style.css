@@ -140,6 +140,26 @@ figcaption {
   background-image: url("../images/8-school.jpg");
 }
 
+.img-9 {
+  background-image: url("../images/9-trailer.jpg");
+}
+
+.img-10 {
+  background-image: url("../images/10-farm.jpg");
+}
+
+.img-11 {
+  background-image: url("../images/11-cross.jpg");
+}
+
+.img-12 {
+  background-image: url("../images/12-newspaper.jpg");
+}
+
+.img-13 {
+  background-image: url("../images/13-sunset.jpg");
+}
+
 .illustration {
   width: 100%;
   margin: 1em auto 1em;
