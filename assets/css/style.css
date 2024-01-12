@@ -47,7 +47,7 @@ strong {
   font-weight: 700;
 }
 
-i {
+em {
   font-style: italic;
 }
 
@@ -55,6 +55,10 @@ figcaption {
   padding-top: 1em;
   font-size: 1.4rem;
   font-style: italic;
+}
+
+hr {
+ border-top: 1px solid #ffffff;
 }
 
 .article-segment {
